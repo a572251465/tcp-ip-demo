@@ -1,0 +1,10 @@
+{
+  "name": "tcp-ip-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "eslint": "^7.32.0"
+  }
+}
